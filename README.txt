@@ -5,7 +5,7 @@ is being used to test the docker image,
 
 The three directories contain the first 01, 05, and 10 images of the the CelebA data set.
 
-The docke image contains its own /data directory which can be overridden for resulting
+The docker image contains its own /data directory which can be overridden for resulting
 docker containers using a form of the following "docker run".
 
 	docker run -it --mount type=bind,source=$PWD/data-05,target=/data --name data-test-05 		rdsc-imagemagick-identify-test
