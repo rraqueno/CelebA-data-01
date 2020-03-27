@@ -1,0 +1,3 @@
+data/000001.jpg JPEG 178x218 178x218+0+0 8-bit sRGB 11.4KB 0.000u 0:00.029
+identify-im6.q16: improper image header `data/identify-results.txt' @ error/txt.c/ReadTXTImage/443.
+identify-im6.q16: improper image header `data/log.txt' @ error/txt.c/ReadTXTImage/443.
